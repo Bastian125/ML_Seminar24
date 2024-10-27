@@ -18,6 +18,6 @@ directly on the images was achieved by a Convolutional Neural Network (CNN). The
 accuracy difference is notable, which is a sign of future areas of improvement that will
 be discussed.
 
---
+---
 
 The **[dataset](https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor)** was published by Jakesh Bohaju under the **[CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)**. The coding was carried out in the 'Project.ipynb' jupyter notebook. The report can be read in the 'Report.pdf' file.
